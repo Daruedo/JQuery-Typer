@@ -53,3 +53,7 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+#frase-id {
+    width: 40px;
+}
