@@ -11,5 +11,10 @@ Funcionalidades:
 
  - Contador de palavras;
  - Timer;
- - Placar;
- - Troca de frase com método random.
+ - Troca de frase com método random;
+ - Placar com sincronização AJAX com servidor.
+
+Iniciando projeto;
+
+cd server
+npm start
