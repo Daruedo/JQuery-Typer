@@ -14,7 +14,10 @@ Funcionalidades:
  - Troca de frase com método random;
  - Placar com sincronização AJAX com servidor.
 
-Iniciando projeto;
+Iniciando projeto:
 
-cd server
+```
+cd .\server\
+
 npm start
+```
